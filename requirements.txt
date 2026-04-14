@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+pandas
+streamlit==1.55.0
+altair==4.2.2
