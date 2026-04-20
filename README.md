@@ -3,7 +3,7 @@
 Interactive options pricing tool using Black-Scholes and Binomial Tree models.
 
 Live App:
-https://qt-training-camp-tsr2vkasq72ytlmhaz3mrk.streamlit.app/
+https://option-pricing-app-h5f8ra6krsgilqjpamgvk2.streamlit.app/
 
 Features
 - Black-Scholes pricing
